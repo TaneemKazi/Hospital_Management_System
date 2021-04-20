@@ -6,14 +6,14 @@ Hospital Management System using Java swing. Where admin can login, generate and
 
 ### Login System
 
-![Landing Page](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Login.PNG)
+![Login System](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Login.PNG)
 
 ### Prescription
 
-![Registration Page](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Prescription.PNG)
+![Prescription Page](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Prescription.PNG)
 
 ### Doctors's Panel
 
-![Teachers Module](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Doctors%20Panel.PNG)
+![Doctors's Panel](https://github.com/TaneemKazi/Hospital_Management_System/blob/main/Screenshots/Doctors%20Panel.PNG)
 
 ---
